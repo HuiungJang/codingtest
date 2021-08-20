@@ -1,3 +1,5 @@
+package hash;
+
 import java.util.Arrays;
 /*
     마라톤 완주 못한 사람 찾기
