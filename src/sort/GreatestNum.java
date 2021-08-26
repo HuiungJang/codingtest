@@ -15,7 +15,7 @@ class GreatestNum{
         // 문자형 배열
         String[] strArr=  new String[numbers.length];
 
-        // 정수형 배열로 변환
+        // 문자형 배열로 변환
         for(int i=0; i< numbers.length; i++){
             strArr[i] = Integer.toString(numbers[i]);
         }
